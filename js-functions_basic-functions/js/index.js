@@ -10,6 +10,11 @@ console.clear();
 
 // --v-- write your code here --v--
 
+const bookTitle; 
+const author; 
+let rating; 
+let numberOfSales; 
+
 // --^-- write your code here --^--
 
 /*
@@ -25,6 +30,10 @@ Then log all variables to the console again.
 */
 
 // --v-- write your code here --v--
+bookTitle = "Trees In German Woods";
+author = "Dr. Seifert";
+rating = 5.0;
+numberOfSales = 150;
 
 // --^-- write your code here --^--
 
